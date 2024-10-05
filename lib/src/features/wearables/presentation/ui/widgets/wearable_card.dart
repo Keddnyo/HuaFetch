@@ -58,7 +58,7 @@ class WearableCard extends StatelessWidget {
               subtitle: Text(wearable.signedAuthKey!),
               trailing: IconButton(
                 onPressed: () {
-                  copyText(wearable.authKey!);
+                  copyText(wearable.signedAuthKey!);
                   onAuthKeyCopyTap();
                 },
                 icon: const Icon(Icons.copy),
