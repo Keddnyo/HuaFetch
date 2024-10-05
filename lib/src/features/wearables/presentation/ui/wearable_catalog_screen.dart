@@ -31,7 +31,7 @@ class WearableCatalogScreen extends StatelessWidget {
               onPressed: () => launchUrl(
                 Uri.https(
                   'github.com',
-                  '/Keddnyo/HueFetch',
+                  '/Keddnyo/HuaFetch',
                 ),
               ),
               icon: const Icon(Icons.code),
