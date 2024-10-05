@@ -14,7 +14,7 @@ Huami paired wearable service data fetch utility
 * Belarusian
 * German
 * Spanish
-* Freken
+* French
 * Hindi
 * Indonesian
 * Italian
