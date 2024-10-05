@@ -1,0 +1,9 @@
+{
+    "@@locale": "fr",
+    "legalese": "Copyright (c) 2024 Timur Jdikhanov",
+    "firmwareVersion": "Version du micrologiciel",
+    "hardwareVersion": "Version du matériel",
+    "authKey": "Clé d'autorisation",
+    "authKeyCopyMessage": "la clé d'autorisation est copiée",
+    "emptyWearableList": "Aucun objet portable sur votre compte"
+}

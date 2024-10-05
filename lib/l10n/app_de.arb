@@ -1,0 +1,8 @@
+{
+    "@@locale": "de",
+    "firmwareVersion": "Firmware-Version",
+    "hardwareVersion": "Hardwareversion",
+    "authKey": "Autorisierungsschlüssel",
+    "authKeyCopyMessage": "Autorisierungsschlüssel wird kopiert",
+    "emptyWearableList": "Ich kann in Ihrem Konto keine Wearables finden"
+}

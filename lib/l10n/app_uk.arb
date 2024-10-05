@@ -1,0 +1,9 @@
+{
+    "@@locale": "uk",
+    "legalese": "Copyright (c) 2024 Тимур Ждіханов",
+    "firmwareVersion": "Версія прошивки",
+    "hardwareVersion": "Апаратна версія",
+    "authKey": "Ключ авторизації",
+    "authKeyCopyMessage": "Ключ авторизації скопійовано в буфер обміну",
+    "emptyWearableList": "Здається, у Вас немає жодного підключеного пристрою"
+}

@@ -1,0 +1,9 @@
+{
+    "@@locale": "es",
+    "legalese": "Copyright (c) 2024 Timur Zhdikhanov",
+    "firmwareVersion": "Versión de firmware",
+    "hardwareVersion": "Versión de hardware",
+    "authKey": "Clave de autorización",
+    "authKeyCopyMessage": "Se copia la clave de autorización",
+    "emptyWearableList": "No puedo encontrar wearables en mi cuenta"
+}

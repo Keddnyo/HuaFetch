@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import '../../../../../../shared/i18n/string_resource.dart';
 
 import '../../../../../core/utilities/copy_text.dart';
 import '../../../domain/model/wearable.dart';
@@ -39,21 +40,21 @@ class WearableCard extends StatelessWidget {
               leading: const CircleAvatar(
                 child: Icon(Icons.code),
               ),
-              title: const Text('Firmware version'),
+              title: Text(context.stringResource.firmwareVersion),
               subtitle: Text(wearable.firmwareVersion!),
             ),
             ListTile(
               leading: const CircleAvatar(
                 child: Icon(Icons.memory),
               ),
-              title: const Text('Hardware version'),
+              title: Text(context.stringResource.hardwareVersion),
               subtitle: Text(wearable.hardwareVersion!),
             ),
             ListTile(
               leading: const CircleAvatar(
                 child: Icon(Icons.key),
               ),
-              title: const Text('Auth Key'),
+              title: Text(context.stringResource.authKey),
               subtitle: Text(wearable.signedAuthKey!),
               trailing: IconButton(
                 onPressed: () {

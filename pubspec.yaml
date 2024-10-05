@@ -9,7 +9,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  flutter_localizations:
+    sdk: flutter
   http: ^1.2.2
+  intl: any
   webview_flutter: ^4.9.0
 
 
@@ -19,6 +22,7 @@ dev_dependencies:
   flutter_lints: ^4.0.0
 
 flutter:
-  uses-material-design: true
   assets:
     - assets/icon.png
+  generate: true
+  uses-material-design: true

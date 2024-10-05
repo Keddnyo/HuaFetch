@@ -3,6 +3,7 @@ import 'dart:io';
 import 'package:flutter/material.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 
+import '../../../../../shared/i18n/string_resource.dart';
 import '../../../../core/resource.dart';
 import '../../domain/model/user.dart';
 import '../provider/auth_provider.dart';
@@ -99,21 +100,21 @@ class _MiAccountAuthScreenState extends State<AuthScreen> {
                   ),
                 ),
         ),
-        bottomNavigationBar: const BottomAppBar(
+        bottomNavigationBar: BottomAppBar(
           child: Center(
             child: Column(
               mainAxisSize: MainAxisSize.min,
               children: [
                 Text(
-                  'HuaFetch',
-                  style: TextStyle(
+                  context.stringResource.appName,
+                  style: const TextStyle(
                     fontSize: 16.0,
                     fontWeight: FontWeight.bold,
                   ),
                   textAlign: TextAlign.center,
                 ),
                 Text(
-                  'Copyright (c) 2024 Timur Zhdikhanov',
+                  context.stringResource.legalese,
                   textAlign: TextAlign.center,
                 ),
               ],

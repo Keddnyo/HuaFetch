@@ -1,0 +1,9 @@
+{
+    "@@locale": "be",
+    "legalese": "Copyright (c) 2024 Тимур Ждиханов",
+    "firmwareVersion": "Версія прашыўкі",
+    "hardwareVersion": "Версія абсталявання",
+    "authKey": "Ключ аўтарызацыі",
+    "authKeyCopyMessage": "Ключ аўтарызацыі скапіяваны ў буфер абмену",
+    "emptyWearableList": "Здаецца, у Вас няма ніводнай падлучанай прылады"
+}

@@ -1,0 +1,9 @@
+{
+    "@@locale": "it",
+    "legalese": "Copyright (c) 2024 Timur Zhdikhanov",
+    "firmwareVersion": "Versione firmware",
+    "hardwareVersion": "Versione hardware",
+    "authKey": "Chiave di autorizzazione",
+    "authKeyCopyMessage": "La chiave di autorizzazione è stata copiata",
+    "emptyWearableList": "Nessun dispositivo indossabile nel tuo account"
+}

@@ -1,0 +1,31 @@
+{
+    "@@locale": "en",
+    "appName": "HuaFetch",
+    "@appName": {
+        "description": "Application name"
+    },
+    "legalese": "Copyright (c) 2024 Timur Zhdikhanov",
+    "@legalese": {
+        "description": "Application legalese"
+    },
+    "firmwareVersion": "Firmware version",
+    "@firmwareVersion": {
+        "description": "Firmware version wearable service data property"
+    },
+    "hardwareVersion": "Hardware version",
+    "@hardwareVersion": {
+        "description": "Hardware version wearable service data property"
+    },
+    "authKey": "Auth key",
+    "@authKey": {
+        "description": "Auth key wearable service data property"
+    },
+    "authKeyCopyMessage": "The auth is now in your clipboard",
+    "@authKeyCopyMessage": {
+        "description": "The message shown when user copies the auth key"
+    },
+    "emptyWearableList": "Can't find wearables in your account",
+    "@emptyWearableList": {
+        "description": "The message shown on main page if there no any paired wearable device in user account"
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "@@locale": "zh",
+    "legalese": "版权所有 (c) 2024 铁木尔·日迪哈诺夫",
+    "firmwareVersion": "固件版本",
+    "hardwareVersion": "硬件版本",
+    "authKey": "授权密钥",
+    "authKeyCopyMessage": "授权密钥已复制到剪贴板",
+    "emptyWearableList": "在您的帐户中找不到可穿戴设备"
+}

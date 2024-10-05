@@ -1,0 +1,9 @@
+{
+    "@@locale": "id",
+    "legalese": "Hak Cipta (c) 2024 Timur Zhdikhanov",
+    "firmwareVersion": "Versi firmware",
+    "hardwareVersion": "Versi perangkat keras",
+    "authKey": "Kunci otorisasi",
+    "authKeyCopyMessage": "Kunci otorisasi disalin",
+    "emptyWearableList": "Tidak ada perangkat wearable di akun Anda"
+}

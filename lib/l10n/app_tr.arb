@@ -1,0 +1,9 @@
+{
+    "@@locale": "tr",
+    "legalese": "Telif hakkı (c) 2024 Timur Zhdikhanov",
+    "firmwareVersion": "Yazılım sürümü",
+    "hardwareVersion": "Malzeme versiyonu",
+    "authKey": "Yetkilendirme anahtarı",
+    "authKeyCopyMessage": "yetkilendirme anahtarı kopyalandı",
+    "emptyWearableList": "hesabınızda giyilebilir cihaz bulunamadı"
+}

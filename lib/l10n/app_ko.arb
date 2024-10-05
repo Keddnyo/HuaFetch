@@ -1,0 +1,9 @@
+{
+    "@@locale": "ko",
+    "legalese": "저작권 (c) 2024 Timur Zhdikhanov",
+    "firmwareVersion": "펌웨어 버전",
+    "hardwareVersion": "하드웨어 버전",
+    "authKey": "인증 키",
+    "authKeyCopyMessage": "인증키가 클립보드에 복사되었습니다",
+    "emptyWearableList": "계정에 웨어러블 기기가 없습니다"
+}

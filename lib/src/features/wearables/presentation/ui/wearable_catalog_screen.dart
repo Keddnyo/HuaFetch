@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 
+import '../../../../../shared/i18n/string_resource.dart';
 import '../../../auth/domain/model/user.dart';
 import '../../../auth/presentation/provider/auth_provider.dart';
 import '../../data/api/wearable_api.dart';
@@ -15,7 +16,7 @@ class WearableCatalogScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) => Scaffold(
         appBar: AppBar(
-          title: const Text('HuaFetch'),
+          title: Text(context.stringResource.appName),
           actions: [
             IconButton(
               onPressed: () {
@@ -34,7 +35,7 @@ class WearableCatalogScreen extends StatelessWidget {
                   width: 72.0,
                   height: 72.0,
                 ),
-                applicationLegalese: 'Copyright (c) 2024 Timur Zhdikhanov',
+                applicationLegalese: context.stringResource.legalese,
               ),
               icon: const Icon(Icons.info_outline),
             )
@@ -58,11 +59,11 @@ class WearableCatalogScreen extends StatelessWidget {
             final wearableListSize = wearableList.length;
 
             if (wearableList.isEmpty) {
-              return const Center(
+              return Center(
                 child: Padding(
-                  padding: EdgeInsets.all(16.0),
+                  padding: const EdgeInsets.all(16.0),
                   child: Text(
-                    'Can\'t find wearables in your account',
+                    context.stringResource.emptyWearableList,
                     textAlign: TextAlign.center,
                   ),
                 ),
@@ -79,9 +80,9 @@ class WearableCatalogScreen extends StatelessWidget {
                   wearable: wearableList[index],
                   onAuthKeyCopyTap: () {
                     ScaffoldMessenger.of(context).showSnackBar(
-                      const SnackBar(
+                      SnackBar(
                         content: Text(
-                          'The Auth key is now in your clipboard',
+                          context.stringResource.authKeyCopyMessage,
                         ),
                         behavior: SnackBarBehavior.floating,
                       ),

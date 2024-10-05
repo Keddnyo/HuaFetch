@@ -1,0 +1,9 @@
+{
+    "@@locale": "ja",
+    "legalese": "著作権 (c) 2024 ティムール・ジディハノフ",
+    "firmwareVersion": "ファームウェアバージョン",
+    "hardwareVersion": "ハードウェアバージョン",
+    "authKey": "認証キー",
+    "authKeyCopyMessage": "認証キーをコピーしました",
+    "emptyWearableList": "アカウントにウェアラブルデバイスがありません"
+}

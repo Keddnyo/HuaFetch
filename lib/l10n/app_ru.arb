@@ -1,0 +1,9 @@
+{
+    "@@locale": "ru",
+    "legalese": "Copyright (c) 2024 Тимур Ждиханов",
+    "firmwareVersion": "Версия прошивки",
+    "hardwareVersion": "Версия оборудования",
+    "authKey": "Ключ авторизации",
+    "authKeyCopyMessage": "Ключ авторизации скопирован в буфер обмена",
+    "emptyWearableList": "Кажется, у Вас нет ни одного подключенного устройства"
+}
