@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import '../../../../../../shared/i18n/string_resource.dart';
 
+import '../../../../../../shared/i18n/string_resource.dart';
 import '../../../../../core/utilities/copy_text.dart';
 import '../../../domain/model/wearable.dart';
 

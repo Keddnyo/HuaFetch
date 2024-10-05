@@ -4,6 +4,6 @@
     "firmwareVersion": "Версія прашыўкі",
     "hardwareVersion": "Версія абсталявання",
     "authKey": "Ключ аўтарызацыі",
-    "authKeyCopyMessage": "Ключ аўтарызацыі скапіяваны ў буфер абмену",
+    "authKeyCopyMessage": "Ключ аўтарызацыі скапіраваны",
     "emptyWearableList": "Здаецца, у Вас няма ніводнай падлучанай прылады"
 }

@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:url_launcher/url_launcher.dart';
 import 'package:webview_flutter/webview_flutter.dart';
 
 import '../../../../../shared/i18n/string_resource.dart';
@@ -25,6 +26,15 @@ class WearableCatalogScreen extends StatelessWidget {
                 Navigator.pushReplacementNamed(context, 'null');
               },
               icon: const Icon(Icons.logout),
+            ),
+            IconButton(
+              onPressed: () => launchUrl(
+                Uri.https(
+                  'github.com',
+                  '/Keddnyo/HueFetch',
+                ),
+              ),
+              icon: const Icon(Icons.code),
             ),
             IconButton(
               onPressed: () => showAboutDialog(

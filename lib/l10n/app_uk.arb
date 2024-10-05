@@ -4,6 +4,6 @@
     "firmwareVersion": "Версія прошивки",
     "hardwareVersion": "Апаратна версія",
     "authKey": "Ключ авторизації",
-    "authKeyCopyMessage": "Ключ авторизації скопійовано в буфер обміну",
+    "authKeyCopyMessage": "Ключ авторизації скопирован",
     "emptyWearableList": "Здається, у Вас немає жодного підключеного пристрою"
 }
