@@ -9,6 +9,23 @@ Huami paired wearable service data fetch utility
 4. Auto sign in on next app open
 5. Support dark theme
 
+## Supported languages
+* English
+* Belarusian
+* German
+* Spanish
+* Freken
+* Hindi
+* Indonesian
+* Italian
+* Japanese
+* Korean
+* Portuguese (Brazil)
+* Russian
+* Turkish
+* Ukrainian
+* Chinese
+
 ## Minimum requirements
 * Android - 5.0
 
