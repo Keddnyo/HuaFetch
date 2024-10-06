@@ -31,6 +31,6 @@ Huami paired wearable service data fetch utility
 
 ## Screenshots
 <p>
-<img src="https://github.com/user-attachments/assets/360d8288-4495-4d85-a21f-30d4a0deaf7b" max-width="100%" width="33%">
-<img src="https://github.com/user-attachments/assets/7321a251-7bb4-48f5-9bbc-7315199f69aa" max-width="100%" width="33%">
+<img src="https://github.com/user-attachments/assets/f562087b-8244-48fe-a391-e28324eff726" max-width="100%" width="33%">
+<img src="https://github.com/user-attachments/assets/85489a02-5054-4518-a0d5-6285a0dfe2cb" max-width="100%" width="33%">
 </p>
