@@ -2,6 +2,8 @@
 
 Huami paired wearable service data fetch utility
 
+<a href="https://github.com/Keddnyo/HuaFetch/releases"><img src="https://img.shields.io/github/downloads/keddnyo/huafetch/total?style=for-the-badge"></a>
+
 ## Features
 1. Sign In via Mi Account
 2. Fetch paired wearable service data
